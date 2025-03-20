@@ -13,6 +13,8 @@
 # red LED: ON == WiFi fail
 # green LED heartbeat: demonstrates scheduler is running.
 
+#Probando gitHub
+
 from mqtt_as import MQTTClient
 from mqtt_local import config
 import uasyncio as asyncio
